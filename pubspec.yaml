@@ -19,6 +19,7 @@ dependencies:
   stacked_services: ^1.4.0
   stacked_themes: ^0.3.12
   shared_preferences: ^2.2.2
+  equatable: ^2.0.5
 
 dev_dependencies:
   flutter_test:
